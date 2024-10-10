@@ -17,6 +17,7 @@
 }
 @font-face {
   font-family: 'Atkinson';
+  color-scheme: light;
   src: url('/fonts/atkinson-regular.woff') format('woff');
   font-weight: 400;
   font-style: normal;
